@@ -30,7 +30,9 @@
 .archive {
   width: 60%;
   height: 40%;
-  left: 500px;
+  position: relative;
+  left: 650px;
+  bottom: 300px;
 }
 
 
