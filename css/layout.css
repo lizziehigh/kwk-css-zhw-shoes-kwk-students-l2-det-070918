@@ -22,5 +22,40 @@
   clear: both;
 }
 
+.summerGrass {
+  width: 60%;
+  height: 40%;
+}
+
+.archive {
+  width: 40%;
+  height: 572px;
+  position: relative;
+  left: 600px;
+  bottom: 572px;
+}
+
+.ladybug {
+  width: 32%;
+  position: relative;
+  bottom: 550px;
+}
+
+.skate {
+  width: 32%;
+  position: relative;
+  bottom: 913px;
+  left: 340px;
+}
+
+.heel {
+  width: 32%;
+  position: relative;
+  left: 678px;
+  bottom: 1277px;
+}
+
+
+
 /* Posititoning Classes */
 
